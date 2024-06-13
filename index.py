@@ -1,5 +1,8 @@
 # Python program to create a simple GUI 
 # calculator using Tkinter 
+#Author: Md. Abdullah
+#Email: mdabd1992@gmail.com
+#Project Name: Abdullah's Simple Calculator
 
 # import everything from tkinter module 
 from tkinter import *
